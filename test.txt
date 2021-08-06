@@ -10,23 +10,11 @@ third string
 fourth string
 fives string
 
-first string
-second string
-third string
-fourth string
-fives string
+6 string
+7 string
+8 string
+9 string
+10 string
 
-
-first string
-second string
-third string
-fourth string
-fives string
-
-first string
-second string
-third string
-fourth string
-fives string
 
 
